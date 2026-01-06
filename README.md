@@ -1,5 +1,6 @@
 # noAI Search
 Removes all of the AI stuff from Google, Bing, Yahoo Search, and DuckDuckGo!
+![logo](https://raw.githubusercontent.com/TecoTurtle/noAI-search/refs/heads/main/icon.svg)
 
 **Supported Search Engines**  
 -
