@@ -17,6 +17,8 @@
     "https://search.yahoo.com/*",
     "https://duckduckgo.com/*"
   ],
+  "data_collection_permissions": [],
+
 
   "icons": {
     "48": "icon.svg"
@@ -46,4 +48,3 @@
     }
   ]
 }
-
