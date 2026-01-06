@@ -3,7 +3,7 @@
   "name": "noAI search",
   "version": "1.0",
   "description": "Removes all of the AI stuff from Google, Bing, Yahoo Search and DuckDuckGo!",
-  "license": "MPL-2.0"
+  "license": "MPL-2.0",
   "author": "TecoTurtle",
     "repository": {
     "type": "git",
@@ -46,3 +46,4 @@
     }
   ]
 }
+
